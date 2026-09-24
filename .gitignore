@@ -1,0 +1,13 @@
+# Compiled output
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Local editor settings
+.vscode/
+
+# Local secrets
+.env
+.env.*
